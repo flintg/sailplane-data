@@ -1,6 +1,6 @@
 ## Tabular Polar Data
 
-The following table was derived from the Performance Curves in "The 1-26 Sailplane Flight - Erection - Maintenance Manual Models A thru E" (POH).
+The following table was derived from the Performance Curves in "The 1-26 Sailplane Flight - Erection - Maintenance Manual Models A thru E" (POH).  Aircraft gross weight is assumed to be 575 lbs.
 
 +======+========+========+==================+===========+===========+===========+===============+===============================+
 | IAS  | IAS    | IAS    | Sink rate (fps)  | Sink rate | Sink rate | L/D ratio | L/D ratio     | Notes                         |
@@ -49,3 +49,4 @@ fpm = feet per minute (mph × 60 min/1 hr )
 fps = feet per second (mph × 60 min/1 hr × 60 sec/1 min )
 kts = nautical miles per hour, aka knots (fpm × 60 min/1 hr × 1 nm/6076.115 ft)
 L/D = Lift ÷ Drag
+lbs = Weight in pounds
