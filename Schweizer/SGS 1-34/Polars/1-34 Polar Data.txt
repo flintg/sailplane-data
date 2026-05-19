@@ -77,7 +77,7 @@ Aircraft gross weight is assumed to be 840 lbs.
 ### Definitions
 
 IAS = Indicated Airspeed
-mph = miles per hour (statue)
+mph = miles per hour (statute)
 fpm = feet per minute (mph × 60 min/1 hr )
 fps = feet per second (mph × 60 min/1 hr × 60 sec/1 min )
 kts = nautical miles per hour, aka knots (fpm × 60 min/1 hr × 1 nm/6076.115 ft)
